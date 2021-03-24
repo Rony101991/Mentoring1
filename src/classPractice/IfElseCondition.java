@@ -2,7 +2,7 @@ package classPractice;
 
 public class IfElseCondition {
     public static void main(String[] args) {
-        int a,b,c;
+        int a,b,c,d,e;
         a=5;
         b=4;
         c=7;
